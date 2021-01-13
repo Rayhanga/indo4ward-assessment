@@ -1,0 +1,11 @@
+{
+  "name": "todolist-app",
+  "version": "0.1.0",
+  "description": "A technical assesment given by Indo4ward",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rayhan Gusty Alif",
+  "license": "ISC"
+}
