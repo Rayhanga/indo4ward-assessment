@@ -1,0 +1,16 @@
+{
+  "name": "indo4ward",
+  "version": "0.1.0",
+  "description": "A technical assesment given by Indo4ward",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rayhan Gusty Alif",
+  "license": "ISC"
+}
